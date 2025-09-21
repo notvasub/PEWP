@@ -6,6 +6,7 @@ This project predicts planetary temperatures and compares weather patterns acros
 
 ```bash
 python main.py
+```
 
 ## What This Does
 
