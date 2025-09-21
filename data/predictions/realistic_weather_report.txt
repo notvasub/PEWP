@@ -1,0 +1,15 @@
+REALISTIC WEATHER ANALYSIS REPORT
+================================================================================
+
+Analysis Date: 2025-09-21 02:13:03
+
+REALISTIC OVERALL RANKINGS (EARTH-CENTRIC)
+---------------------------------------------
+ 1. Earth           |  89.8/100
+ 2. LHS_1140b       |  69.8/100
+ 3. ProximaCentauri_b |  66.3/100
+ 4. TRAPPIST-1e     |  65.8/100
+ 5. GJ_1214b        |  46.9/100
+ 6. Mars            |  28.0/100
+
+KEY FINDING: Earth properly ranked as most habitable planet!

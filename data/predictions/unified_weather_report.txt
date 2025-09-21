@@ -1,0 +1,13 @@
+COMPREHENSIVE WEATHER ANALYSIS REPORT
+================================================================================
+
+Analysis Date: 2025-09-21 09:55:14
+
+OVERALL RANKINGS
+------------------------------
+ 1. TRAPPIST-1e     |  92.5/100
+ 2. LHS_1140b       |  90.9/100
+ 3. ProximaCentauri_b |  80.9/100
+ 4. Earth           |  70.0/100
+ 5. GJ_1214b        |  67.5/100
+ 6. Mars            |  33.0/100

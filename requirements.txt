@@ -1,0 +1,11 @@
+# Core data science libraries
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
